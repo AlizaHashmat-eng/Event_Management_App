@@ -1,4 +1,4 @@
-##Event Management System
+# Event Management System
 
 Welcome to the **Event Management System**, a powerful web application built with **Cookiecutter Django** that simplifies the process of organizing and managing events. The system comes with essential features like user management, email verification, Celery for background task processing, and Docker support for easy deployment.
 
